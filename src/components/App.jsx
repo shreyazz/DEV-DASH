@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../index.css";
 import axios from "axios";
 import "../index.css";
-import VercelLogo from "../vercel.svg";
+
 import LeftSide from "./LeftSide";
 import GraphRightSide from "./GraphRightSide";
 import Blogs from "./Blogs";
@@ -130,7 +130,7 @@ function App() {
         <div className="free-space"></div>
         <footer>
           Made with ❤️ by Shreyas Pahune <br /> Powered by
-          <img src={VercelLogo} className="vercel" alt="" /> Vercel
+           Firebase
         </footer>
       </div>
     </>
