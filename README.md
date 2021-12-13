@@ -4,7 +4,10 @@ It is a [dev.to](https://dev.to/) dashboard which visually represents the stats 
 
 ### Use the website 😄
 - [Link](https://dev-dash-61586.web.app/)
-- QR Code: 
+
+<br>
+
+- QR Code: <br>
      <a href="https://imgbb.com/"><img src="https://i.ibb.co/ctKFGzw/qr.png" alt="qr" border="0"></a>
 <br>
 
