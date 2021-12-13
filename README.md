@@ -2,6 +2,12 @@
 
 It is a [dev.to](https://dev.to/) dashboard which visually represents the stats of your blogs. It also lists out the blogs of an author.
 
+### Use the website 😄
+- [Link](https://dev-dash-61586.web.app/)
+- QR Code: 
+     <a href="https://imgbb.com/"><img src="https://i.ibb.co/ctKFGzw/qr.png" alt="qr" border="0"></a>
+<br>
+
 ### Features ✨
 
 - Graphs / Charts for comments and reactions
@@ -17,6 +23,7 @@ It is a [dev.to](https://dev.to/) dashboard which visually represents the stats 
 - ReactJS
 - API: [Dev.to API](https://dev.to/api/articles?username=shreyazz)
   - `https://dev.to/api/articles?username=yourDevUserName`
+- Hosting: Firebase
 - CSS
 
 ### Overview 📸
