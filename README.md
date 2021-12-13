@@ -22,6 +22,8 @@ It is a [dev.to](https://dev.to/) dashboard which visually represents the stats 
 ### Overview 📸
 
 - Page One :
-  ![pageOne]('https://ibb.co/whCgFBW')
+  <a href="https://ibb.co/whCgFBW"><img src="https://i.ibb.co/Ld6RXYt/pageOne.png" alt="pageOne" border="0"></a>
+  <br>
+  <br>
 - Page Two :
-  ![pageTwo]('https://ibb.co/54KDGcR')
+  <a href="https://ibb.co/54KDGcR"><img src="https://i.ibb.co/1QzV72m/pageTwo.png" alt="pageTwo" border="0"></a>
